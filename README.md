@@ -66,6 +66,4 @@ npm start
 💼 **LinkedIn:** [linkedin.com/in/swyampatel](https://linkedin.com/in/swyampatel)  
 📂 **GitHub:** [github.com/Swyampatel](https://github.com/Swyampatel)  
 
----
-
-👨‍💻 Built by **Swyam Patel** – Passionate about AI, Cloud, and Scalable Software 🚀  
+ 
